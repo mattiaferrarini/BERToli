@@ -5,6 +5,8 @@
 BERToli is a BERT model for Italian song lyrics. It was obtained via continued pretraining of [`dbmdz/bert-base-italian-xxl-cased`](https://huggingface.co/dbmdz/bert-base-italian-xxl-cased) on ~106k Italian song lyrics from the [Genius Song Lyrics Dataset](https://www.kaggle.com/datasets/carlosgdcj/genius-song-lyrics-with-language-information).
 The objective was Masked Language Modeling (MLM). 
 
+The model is available on [Hugging Face](https://huggingface.co/mattiaferrarini/BERToli).
+
 ## Evaluation
 
 The base model and the adapted model were tested on a held-out set of ~6k songs with the following results:
