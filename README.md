@@ -16,6 +16,7 @@ The base model and the adapted model were tested on a held-out set of ~6k songs 
 | Base    | 1.94    | 6.95    |
 | **BERToli**    | **1.45**    | **4.26**    |
 
+**Evaluation of the learned representations will be made available in the future, once a suitable dataset has been created / identified.**
 
 ## Why BERToli?
 
